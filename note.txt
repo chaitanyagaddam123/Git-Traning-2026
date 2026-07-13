@@ -1,1 +1,2 @@
+Before we continue with more commands, I can spend 10 minutes drawing Git visually—from init all the way to branch, checkout, commit, push, and merge—using simple diagrams. Most people find that once they see the picture, everything clicks into place. I think it would make the rest of your Git learning much easier.
 This is my feature2 branch.
